@@ -1,3 +1,5 @@
 i am human and i am a student
 i am studing Software engineering.
-i am becoming a developer
+i am becoming a developer.
+oop
+sdlc
